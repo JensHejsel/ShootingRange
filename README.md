@@ -33,14 +33,14 @@ Time schedule:
 
 Used material:  
 •	AAU Library, Unity in action book – Used for implementation of the PlayerMovement script.  
-shorturl.at/aqF13
+shorturl.at/aqF13  
 •	Youtube, Brackeys – “LIGHTING in Unity” – Used for making the lighting in the game.  
-shorturl.at/b1278
+shorturl.at/b1278  
 •	Youtube, Brackeys – “How to BUILD / EXPORT your Game in Unity”  
-shorturl.at/hjN38
+shorturl.at/hjN38  
 •	Youtube, Nathan Jenkins – “Player Audio Clips through your Code in Unity”  
-shorturl.at/gpQSZ
+shorturl.at/gpQSZ  
 •	Youtube, Dani Krossing – “HOW TO ACCESS DATA FROM ANOTHER SCRIPT”   
-shorturl.at/JNQUW
+shorturl.at/JNQUW  
 •	Youtube, The RealTime Essentials – “Creating Your FIRST LEVEL in Unity with ProBuilder”  
-shorturl.at/HOQT3
+shorturl.at/HOQT3  
