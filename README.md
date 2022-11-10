@@ -6,9 +6,9 @@ The idea for the game:
 The idea is to make a game containing a shooting range that the player can use. When the game launches, the player should spawn in the shooting range with a gun in their hand. The player should be able to move around the shooting range with the WASD keys and should be able to look around using movement of the mouse. The player should receive information on how to start the game on screen and should be able to execute whatever action is needed to start the game. When the game starts, a target should spawn within the predetermined area in the shooting range. The player should have 30 seconds to shoot as many targets as possible. The target should relocate every time the player hits the target and the player’s point should go up by 1. If the player shot and missed the target, a bullet hole should spawn at the destination of the player’s crosshair and the player’s points should go down by 1. Once the 30 seconds have passed, the game is over and the players score should be presented on the screen for the player to see. The information upon how to start the game is once again presented on the screen and the game can now be played again.
 
 Project parts:
-•	Script 1: PlayerBehavior – Defines how the player moves and looks around.
-•	Script 2: GunBehavior – Defines how the gun shoots.
-•	Script 3: GameBehavior – Defines how the timer and score work.
+•	Script 1: PlayerBehavior – Defines how the player moves and looks around.  
+•	Script 2: GunBehavior – Defines how the gun shoots.  
+•	Script 3: GameBehavior – Defines how the timer and score work.  
 
 
 •	Object 1: Main camera – The player and POV. Also functions as the gun, as a ray is being cast from the camera towards the middle of the screen whenever the player shoots.
